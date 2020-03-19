@@ -8,13 +8,13 @@
 
 title: COVID-19 RESPONSE
 description: RESPirator OpeN SourcE.
-github_username: COVID-19-RESPONSE
+github_username: CoResponse
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "Blog"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://covid-19-response.github.io/Blog/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://coresponse.github.io/Blog/" # the base hostname & protocol for your site, e.g. http://example.com
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
