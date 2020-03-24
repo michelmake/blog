@@ -5,7 +5,7 @@ summary: "Description, build instructions and lessons learned from the cable win
 toc: true
 comments: true
 image: images/concept_cable_winch_v0/assembly.jpg
-categories: [markdowninstruction, concept]
+categories: [instruction, concept]
 ---
 # Concept Cable Winch
 ## Description
@@ -23,7 +23,7 @@ On the plus side, the software allows a higher customizability of the air flow, 
 ## Required Components
 ![]({{ site.baseurl }}/images/concept_cable_winch_v0/components.jpg "Required components")
 
-3D printed parts from [Thingiverse]():
+3D printed parts from [Thingiverse](https://www.thingiverse.com/thing:4236312):
 - enclosure
 - pulley
 - pusher
