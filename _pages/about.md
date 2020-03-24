@@ -13,8 +13,6 @@ Visit us on:
 Contact:
 
 - Address: Campus-Boulevard 30, 52074 Aachen, Germany
-- Phone: +49 241 80 28029
-- Fax: +49 241 80 22296
 - E-Mail: [coresponse@irt.rwth-aachen.de](mailto:coresponse@irt.rwth-aachen.de)
 
 
