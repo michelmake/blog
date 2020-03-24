@@ -42,7 +42,6 @@ Two different concepts are currently pursued in parallel. Both concepts should a
 ![]({{ site.baseurl }}/images/KonzeptHebelV0.jpg "First prototype of Concept 1. Rapid development iterations are happening currently with improvements to the design.")
 
 
-
 **Concept 2** uses a servo or stepper motor. This concept requires slightly more complex electronics for the control of the motor, but only a very few mechanical parts. The function can be adjusted using a smartphone.
 ![]({{ site.baseurl }}/images/concept_cable_winch_v0/assembly.jpg "First prototype of Concept 2. Rapid development iterations are happening currently with improvements to the design.")
 
