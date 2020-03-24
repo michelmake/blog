@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Concept Cable Winch v0"
 summary: "Description, build instructions and lessons learned from the cable winch concept."
 toc: true
@@ -7,7 +7,7 @@ image: images/concept_cable_winch_v0/assembly.jpg
 hide: false
 search_exclude: true
 categories: [instruction, concept]
----
+--- -->
 
 # Concept Cable Winch
 ## Description
