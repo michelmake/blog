@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://coresponse.rwth-aachen.de/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://coresponse.rwth-aachen.de/blog/" rel="alternate" type="text/html" /><updated>2020-03-24T08:17:08-05:00</updated><id>https://coresponse.rwth-aachen.de/blog/feed.xml</id><title type="html">COVID-19 RESPONSE</title><subtitle>RESPirator OpeN SourcE.</subtitle><entry><title type="html">State of the Project</title><link href="https://coresponse.rwth-aachen.de/blog/markdown/2020/03/24/project-state.html" rel="alternate" type="text/html" title="State of the Project" /><published>2020-03-24T00:00:00-05:00</published><updated>2020-03-24T00:00:00-05:00</updated><id>https://coresponse.rwth-aachen.de/blog/markdown/2020/03/24/project-state</id><content type="html" xml:base="https://coresponse.rwth-aachen.de/blog/markdown/2020/03/24/project-state.html">&lt;h1 id=&quot;state-of-the-project&quot;&gt;State of the Project&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://coresponse.rwth-aachen.de/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://coresponse.rwth-aachen.de/blog/" rel="alternate" type="text/html" /><updated>2020-03-24T08:24:39-05:00</updated><id>https://coresponse.rwth-aachen.de/blog/feed.xml</id><title type="html">COVID-19 RESPONSE</title><subtitle>RESPirator OpeN SourcE.</subtitle><entry><title type="html">This is CORESPOSE</title><link href="https://coresponse.rwth-aachen.de/blog/markdown/2020/03/24/this-is-coresponse.html" rel="alternate" type="text/html" title="This is CORESPOSE" /><published>2020-03-24T00:00:00-05:00</published><updated>2020-03-24T00:00:00-05:00</updated><id>https://coresponse.rwth-aachen.de/blog/markdown/2020/03/24/this-is-coresponse</id><content type="html" xml:base="https://coresponse.rwth-aachen.de/blog/markdown/2020/03/24/this-is-coresponse.html">&lt;h1 id=&quot;coresponse&quot;&gt;CORESPONSE&lt;/h1&gt;
+
+&lt;h2 id=&quot;objective&quot;&gt;Objective&lt;/h2&gt;
+
+&lt;p&gt;The development of a simplified ventilation device that is built with the help of a 3D printer and a few components so that it can be easily reproduced and assembled by volunteers all over the world. This device aims to save lives during the COVID19 crisis.&lt;/p&gt;
+
+&lt;h2 id=&quot;who-we-are&quot;&gt;Who we are?&lt;/h2&gt;
+
+&lt;p&gt;We are an interdisciplinary team consisting of engineers and clinicians from RWTH Aachen University.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-idea&quot;&gt;The idea&lt;/h2&gt;
+
+&lt;p&gt;The device is meant to provide a last resort for the possible situation when COVID19 infections outnumber the capacities of medical ventilation at healthcare facilities.&lt;/p&gt;
+
+&lt;p&gt;The device automatically squeezes widely available bag valve masks (BVMs, “Ambu-bags”).&lt;/p&gt;
+
+&lt;p&gt;The device is not developed as a medical device. It is not meant and not safe to be used without strict supervision. It is intended to be used when the situation is at a point where the only remaining alternative would be using volunteers to operate BVMs manually.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-advantages&quot;&gt;The advantages&lt;/h2&gt;
+
+&lt;p&gt;-Main components: 3D-printable parts, bag valve mask, motor
+-All necessary files and building instructions will be made open source. 
+-Anyone with access to a standard FDM 3D printer can build the device independently within one day. A large number of devices can be manufactured within a short period of time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/SchemeCORESPONSE_PNG.png&quot; alt=&quot;&quot; title=&quot;Scheme of the 3D-Printable Simplified Ventilator&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">CORESPONSE</summary></entry><entry><title type="html">State of the Project</title><link href="https://coresponse.rwth-aachen.de/blog/markdown/2020/03/24/project-state.html" rel="alternate" type="text/html" title="State of the Project" /><published>2020-03-24T00:00:00-05:00</published><updated>2020-03-24T00:00:00-05:00</updated><id>https://coresponse.rwth-aachen.de/blog/markdown/2020/03/24/project-state</id><content type="html" xml:base="https://coresponse.rwth-aachen.de/blog/markdown/2020/03/24/project-state.html">&lt;h1 id=&quot;state-of-the-project&quot;&gt;State of the Project&lt;/h1&gt;
 
 &lt;p&gt;Two different concepts are currently pursued in parallel. Both concepts should allow an adjustable breathing volume (tidal volume) and a variable respiratory rate. Additional oxygen can be administered via the BVM.&lt;/p&gt;
 
