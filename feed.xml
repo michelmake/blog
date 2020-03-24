@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://coresponse.rwth-aachen.de/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://coresponse.rwth-aachen.de/blog/" rel="alternate" type="text/html" /><updated>2020-03-24T12:38:15-05:00</updated><id>https://coresponse.rwth-aachen.de/blog/feed.xml</id><title type="html">CORESPONSE - COvid19 RESPirator OpeN SourcE</title><subtitle>COvid19 RESPirator OpeN SourcE. A 3D-Printable Simplified Ventilator.</subtitle><entry><title type="html">Concept Cable Winch v0</title><link href="https://coresponse.rwth-aachen.de/blog/instruction/concept/2020/03/24/concept_cable_winch_v0.html" rel="alternate" type="text/html" title="Concept Cable Winch v0" /><published>2020-03-24T00:00:00-05:00</published><updated>2020-03-24T00:00:00-05:00</updated><id>https://coresponse.rwth-aachen.de/blog/instruction/concept/2020/03/24/concept_cable_winch_v0</id><content type="html" xml:base="https://coresponse.rwth-aachen.de/blog/instruction/concept/2020/03/24/concept_cable_winch_v0.html">&lt;h1 id=&quot;concept-cable-winch&quot;&gt;Concept Cable Winch&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://coresponse.rwth-aachen.de/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://coresponse.rwth-aachen.de/blog/" rel="alternate" type="text/html" /><updated>2020-03-24T12:52:11-05:00</updated><id>https://coresponse.rwth-aachen.de/blog/feed.xml</id><title type="html">CORESPONSE - COvid19 RESPirator OpeN SourcE</title><subtitle>COvid19 RESPirator OpeN SourcE. A 3D-Printable Simplified Ventilator.</subtitle><entry><title type="html">Concept Cable Winch v0</title><link href="https://coresponse.rwth-aachen.de/blog/instruction/concept/2020/03/24/concept_cable_winch_v0.html" rel="alternate" type="text/html" title="Concept Cable Winch v0" /><published>2020-03-24T00:00:00-05:00</published><updated>2020-03-24T00:00:00-05:00</updated><id>https://coresponse.rwth-aachen.de/blog/instruction/concept/2020/03/24/concept_cable_winch_v0</id><content type="html" xml:base="https://coresponse.rwth-aachen.de/blog/instruction/concept/2020/03/24/concept_cable_winch_v0.html">&lt;h1 id=&quot;concept-cable-winch&quot;&gt;Concept Cable Winch&lt;/h1&gt;
 &lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jHJIzP7SPyo&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -12,7 +12,7 @@ Consequently, a micro controller is required to pass the inputs to the motor.
 On the plus side, the software allows a higher customizability of the air flow, volume and frequency.&lt;/p&gt;
 
 &lt;h2 id=&quot;required-components&quot;&gt;Required Components&lt;/h2&gt;
-&lt;p&gt;![](/blog/images/concept_cable_winch_v0/components.jpg “Required components” =560x)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../images/concept_cable_winch_v0/components.jpg&quot; alt=&quot;Required components&quot; width=&quot;560&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;3D printed:&lt;/p&gt;
 &lt;ul&gt;
@@ -50,20 +50,20 @@ On the plus side, the software allows a higher customizability of the air flow, 
 &lt;h2 id=&quot;build-instructions&quot;&gt;Build Instructions&lt;/h2&gt;
 
 &lt;p&gt;First, mount the motor on the enclosure using the M2.5x16 screws and washers.
-![](/blog/images/concept_cable_winch_v0/step_1.jpg “Step 1” =560x)&lt;/p&gt;
+&lt;img src=&quot;../images/concept_cable_winch_v0/step_1.jpg&quot; alt=&quot;Step 1&quot; width=&quot;560&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Next, pass the lace through the hole in the pulley and knot it tightly.
 Pass the lace through the rectangular hole in the enclosing and mount the pulley on the motor’s flange using the M2 countersunk screws.
-![](/blog/images/concept_cable_winch_v0/step_2.jpg “Step 2” =560x)&lt;/p&gt;
+&lt;img src=&quot;../images/concept_cable_winch_v0/step_2.jpg&quot; alt=&quot;Step 2&quot; width=&quot;560&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Pass the elastics through the smaller holes of the enclosure and through the outer holes of the pusher.
 The lace has to be passed through the center holes of the pusher.
 If you would like a secure fit, pass the elastic and lace through the handle of the bag.
 You could also place both over the handle for easier unmounting of the whole device.
-![](/blog/images/concept_cable_winch_v0/step_3.jpg “Step 3” =560x)&lt;/p&gt;
+&lt;img src=&quot;../images/concept_cable_winch_v0/step_3.jpg&quot; alt=&quot;Step 3&quot; width=&quot;560&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Finally, knot the elastic and the lace to the other side of the enclosure.
-![](/blog/images/concept_cable_winch_v0/assembly.jpg “Assembly” =560x)&lt;/p&gt;
+&lt;img src=&quot;../images/concept_cable_winch_v0/assembly.jpg&quot; alt=&quot;Assembly&quot; width=&quot;560&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;programming-the-board&quot;&gt;Programming the board&lt;/h2&gt;
 &lt;p&gt;The code and instructions to flash the OpenCM9.04 board are available in &lt;a href=&quot;https://github.com/CORESPONSE/dynamixel_software&quot;&gt;this github repository&lt;/a&gt;.&lt;/p&gt;
