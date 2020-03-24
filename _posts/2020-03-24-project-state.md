@@ -6,7 +6,7 @@ categories: [markdown]
 title: State of the Project
 ---
 
-#State of the Project
+# State of the Project
 
 Two different concepts are currently pursued in parallel. Both concepts should allow an adjustable breathing volume (tidal volume) and a variable respiratory rate. Additional oxygen can be administered via the BVM.
 
@@ -21,7 +21,7 @@ First prototype of Concept 1. Rapid development iterations are happening current
 The first prototypes have already been implemented and are currently evaluated and improved with a test lung (AEROtube®).
 At the same time, a homepage is set up with replication instructions and all necessary files for printing the parts.
 
-##COSTS AND MATERIAL
+## COSTS AND MATERIAL
 
 -Current status of building costs: below 75 Euro (Concept 1).
 -Production: decentralized by volunteers owning an FDM 3D-Printer with a build plate of 20cmx20cm (250g Filament)
