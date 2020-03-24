@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: 3D-Printable Simplified Ventilator - COvid19 RESPirator OpeN SourcE
 categories: [about, projects]
-title: This is CORESPOSE
+title: This is CORESPONSE
 ---
 # CORESPONSE
 
