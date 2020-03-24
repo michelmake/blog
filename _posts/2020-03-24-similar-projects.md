@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: Links to similar projects around the world.
-categories: [markdown]
+categories: [projects]
 title: Similar Projects
 ---
 # Similar Projects

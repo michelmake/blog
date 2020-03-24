@@ -1,13 +1,11 @@
-<!-- ---
+---
 title: "Concept Cable Winch v0"
 summary: "Description, build instructions and lessons learned from the cable winch concept."
-toc: true
-comments: true
+# toc: true
+# comments: true
 image: images/concept_cable_winch_v0/assembly.jpg
-hide: false
-search_exclude: true
 categories: [instruction, concept]
---- -->
+---
 
 # Concept Cable Winch
 ## Description
@@ -23,7 +21,7 @@ Consequently, a micro controller is required to pass the inputs to the motor.
 On the plus side, the software allows a higher customizability of the air flow, volume and frequency.
 
 ## Required Components
-<img src="http://coresponse.github.io/blog/images/concept_cable_winch_v0/components.jpg" alt="Required components" width="560"/>
+<img src="https://coresponse.github.io/blog/images/concept_cable_winch_v0/components.jpg" alt="Required components" width="560"/>
 
 3D printed parts from [Thingiverse]():
 - enclosure
