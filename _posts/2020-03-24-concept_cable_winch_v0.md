@@ -23,7 +23,7 @@ Consequently, a micro controller is required to pass the inputs to the motor.
 On the plus side, the software allows a higher customizability of the air flow, volume and frequency.
 
 ## Required Components
-{% responsive_image path: images/concept_cable_winch_v0/components.jpg alt: "Required components"%}
+![]({{ site.baseurl }}/images/concept_cable_winch_v0/components.jpg "Required components" =560x)
 
 3D printed:
 - enclosure
@@ -51,20 +51,20 @@ Tools:
 ## Build Instructions
 
 First, mount the motor on the enclosure using the M2.5x16 screws and washers.
-{% responsive_image path: images/concept_cable_winch_v0/step_1.jpg alt: "Step 1"%}
+![]({{ site.baseurl }}/images/concept_cable_winch_v0/step_1.jpg "Step 1" =560x)
 
 Next, pass the lace through the hole in the pulley and knot it tightly.
 Pass the lace through the rectangular hole in the enclosing and mount the pulley on the motor's flange using the M2 countersunk screws.
-{% responsive_image path: images/concept_cable_winch_v0/step_2.jpg alt: "Step 2"%}
+![]({{ site.baseurl }}/images/concept_cable_winch_v0/step_2.jpg "Step 2" =560x)
 
 Pass the elastics through the smaller holes of the enclosure and through the outer holes of the pusher.
 The lace has to be passed through the center holes of the pusher.
 If you would like a secure fit, pass the elastic and lace through the handle of the bag.
 You could also place both over the handle for easier unmounting of the whole device.
-{% responsive_image path: images/concept_cable_winch_v0/step_3.jpg alt: "Step 3"%}
+![]({{ site.baseurl }}/images/concept_cable_winch_v0/step_3.jpg "Step 3" =560x)
 
 Finally, knot the elastic and the lace to the other side of the enclosure.
-{% responsive_image path: images/concept_cable_winch_v0/assembly.jpg alt: "Assembly"%}
+![]({{ site.baseurl }}/images/concept_cable_winch_v0/assembly.jpg "Assembly" =560x)
 
 ## Programming the board
 The code and instructions to flash the OpenCM9.04 board are available in [this github repository](https://github.com/CORESPONSE/dynamixel_software).
