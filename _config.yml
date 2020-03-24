@@ -72,10 +72,6 @@ default_badges:
   binder: true
   colab: true
 
-# enable responsive image size
-responsive_image:
-  template: _includes/responsive-image.html
-
 # Everything below here should be left alone. Modifications may break fastpages
 future: true
 theme: minima
