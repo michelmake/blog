@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 4.0.0"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "edition"
+gem "minima"
 # To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
@@ -23,6 +23,7 @@ group :jekyll_plugins do
   gem 'jekyll-toc'
   gem 'jekyll-gist'
   gem 'jekyll-paginate'
+  gem 'jekyll-responsive-image'
 end
 
 gem "kramdown-math-katex"

@@ -37,10 +37,10 @@ url: "https://coresponse.rwth-aachen.de" # the base hostname & protocol for your
 baseurl: "/blog" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
-# minima:
-#   social_links:
-#     # twitter: 
-#     github: CORESPONSE
+minima:
+  social_links:
+    # twitter: 
+    github: CORESPONSE
 
 # Set this to true to get LaTeX math equation support
 use_math: true
@@ -72,9 +72,13 @@ default_badges:
   binder: true
   colab: true
 
+# enable responsive image size
+responsive_image:
+  template: _includes/responsive-image.html
+
 # Everything below here should be left alone. Modifications may break fastpages
 future: true
-theme: edition
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -91,7 +95,7 @@ plugins:
 paginate: 15
 paginate_path: /page:num/
 
-remote_theme: jekyll/edition
+remote_theme: jekyll/minima
 
 titles_from_headings:
   enabled:     true
