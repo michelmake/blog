@@ -1,0 +1,79 @@
+<h1 id="concept-cable-winch">Concept Cable Winch</h1>
+<h2 id="description">Description</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jHJIzP7SPyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<p>The concept aims to realize a compression of a bag-valve-mask with as little moving parts as possible.
+This reduces the number of parts which have to be printed and weak points.
+A simple pulley is used to pull two printed parts together and compress the bag.</p>
+
+<p>However, this concept requires a motor which can be position controlled (e.g. a servo or a stepper motor).
+Consequently, a micro controller is required to pass the inputs to the motor.
+On the plus side, the software allows a higher customizability of the air flow, volume and frequency.</p>
+
+<h2 id="required-components">Required Components</h2>
+<p><img src="/blog/images/concept_cable_winch_v0/components.jpg" alt="" title="Required components" /></p>
+
+<p>3D printed:</p>
+<ul>
+  <li>enclosure</li>
+  <li>pulley</li>
+  <li>pusher</li>
+</ul>
+
+<p>Electrics:</p>
+<ul>
+  <li>Dynamixel servo motor (XL430-W250-T or better, we had an XM430-W350-T lying around)</li>
+  <li>OpenCM9.04 board</li>
+  <li>12V DC power supply</li>
+</ul>
+
+<p>Norm pieces:</p>
+<ul>
+  <li>4x: M2.5x16 cylinder head screws</li>
+  <li>4x: M2.5 washer</li>
+  <li>4x: M2x9 countersunk screws</li>
+</ul>
+
+<p>Others:</p>
+<ul>
+  <li>Elastic</li>
+  <li>Lace</li>
+</ul>
+
+<p>Tools:</p>
+<ul>
+  <li>allen wrench size 2</li>
+  <li>small slot screwdriver</li>
+</ul>
+
+<h2 id="build-instructions">Build Instructions</h2>
+
+<p>First, mount the motor on the enclosure using the M2.5x16 screws and washers.
+<img src="/blog/images/concept_cable_winch_v0/step_1.png" alt="" title="Step 1" /></p>
+
+<p>Next, pass the lace through the hole in the pulley and knot it tightly.
+Pass the lace through the rectangular hole in the enclosing and mount the pulley on the motor’s flange using the M2 countersunk screws.
+<img src="/blog/images/concept_cable_winch_v0/step_2.png" alt="" title="Step 2" /></p>
+
+<p>Pass the elastics through the smaller holes of the enclosure and through the outer holes of the pusher.
+The lace has to be passed through the center holes of the pusher.
+If you would like a secure fit, pass the elastic and lace through the handle of the bag.
+You could also place both over the handle for easier unmounting of the whole device.
+<img src="/blog/images/concept_cable_winch_v0/step_2.png" alt="" title="Step 3" /></p>
+
+<p>Finally, knot the elastic and the lace to the other side of the enclosure.
+<img src="/blog/images/concept_cable_winch_v0/assembly.png" alt="" title="Assembly" /></p>
+
+<h2 id="programming-the-board">Programming the board</h2>
+<p>The code and instructions to flash the OpenCM9.04 board are available in <a href="https://github.com/CORESPONSE/dynamixel_software">this github repository</a>.</p>
+
+<h1 id="lessons-learned">Lessons learned</h1>
+<p>The bag can be compressed by the small servo motor but the bags are quite sticky.
+Thus, the lace cannot move freely around the bag and the enclosure moves instead of the pusher.
+Also, the motion is more like folding the bag and not pushing it in the middle.
+On the plus side, the bag can be held at the handle and performs almost no motion.
+This is beneficial for the patients well being.</p>
+
+<p>The next iterations will continue to emphasize using the handle to place the bag over the patient.
+An improvement should be expected by applying the force evenly in the middle of both sides to suppress the motion of the enclosure.</p>

@@ -14,12 +14,14 @@
     
         ,"post1": {
             "title": "State of the Project",
-            "content": "State of the Project . Two different concepts are currently pursued in parallel. Both concepts should allow an adjustable breathing volume (tidal volume) and a variable respiratory rate. Additional oxygen can be administered via the BVM. . Concept 1 uses a DC geared motor at a constant speed. This concept requires very simple electronics and no special control (“switch on and go”). The bag is operated using a 3D printed mechanism. The breathing volume is adapted by adjusting the mechanism. . First prototype of Concept 1. Rapid development iterations are happening currently with improvements to the design. . Concept 2 uses a servo or stepper motor. This concept requires slightly more complex electronics for the control of the motor, but only a very few mechanical parts. The function can be adjusted using a smartphone. . The first prototypes have already been implemented and are currently evaluated and improved with a test lung (AEROtube®). At the same time, a homepage is set up with replication instructions and all necessary files for printing the parts. . COSTS AND MATERIAL . -Current status of building costs: below 75 Euro (Concept 1). -Production: decentralized by volunteers owning an FDM 3D-Printer with a build plate of 20cmx20cm (250g Filament) -Bag valve mask -Electric motor and power supply -Few mechanical small parts (e.g. screws) .",
+            "content": "State of the Project . Two different concepts are currently pursued in parallel. Both concepts should allow an adjustable breathing volume (tidal volume) and a variable respiratory rate. Additional oxygen can be administered via the BVM. . Concept 1 uses a DC geared motor at a constant speed. This concept requires very simple electronics and no special control (“switch on and go”). The bag is operated using a 3D printed mechanism. The breathing volume is adapted by adjusting the mechanism. . . Concept 2 uses a servo or stepper motor. This concept requires slightly more complex electronics for the control of the motor, but only a very few mechanical parts. The function can be adjusted using a smartphone. . The first prototypes have already been implemented and are currently evaluated and improved with a test lung (AEROtube®). At the same time, a homepage is set up with replication instructions and all necessary files for printing the parts. . COSTS AND MATERIAL . Current status of building costs: below 75 Euro (Concept 1). | Production: decentralized by volunteers owning an FDM 3D-Printer with a build plate of 20cmx20cm (250g Filament) | Bag valve mask | Electric motor and power supply | Few mechanical small parts (e.g. screws) | .",
             "url": "https://coresponse.rwth-aachen.de/blog/markdown/2020/03/24/project-state.html",
             "relUrl": "/markdown/2020/03/24/project-state.html",
             "date": " • Mar 24, 2020"
         }
         
+    
+  
     
   
 
@@ -29,7 +31,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "Visit us on: . RWTH university website | github | Thingiverse | . Contact: . Address: Campus-Boulevard 30, 52074 Aachen, Germany | Phone: +49 241 80 28029 | Fax: +49 241 80 22296 | E-Mail: coresponse@irt.rwth-aachen.de | . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "https://coresponse.rwth-aachen.de/blog/about/",
           "relUrl": "/about/",
           "date": ""
