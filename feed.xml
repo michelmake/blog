@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://coresponse.rwth-aachen.de/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://coresponse.rwth-aachen.de/blog/" rel="alternate" type="text/html" /><updated>2020-03-24T07:24:20-05:00</updated><id>https://coresponse.rwth-aachen.de/blog/feed.xml</id><title type="html">COVID-19 RESPONSE</title><subtitle>RESPirator OpeN SourcE.</subtitle><entry><title type="html">Coresponse Handout</title><link href="https://coresponse.rwth-aachen.de/blog/2020/03/24/CORESPONSE-handout.html" rel="alternate" type="text/html" title="Coresponse Handout" /><published>2020-03-24T00:00:00-05:00</published><updated>2020-03-24T00:00:00-05:00</updated><id>https://coresponse.rwth-aachen.de/blog/2020/03/24/CORESPONSE-handout</id><content type="html" xml:base="https://coresponse.rwth-aachen.de/blog/2020/03/24/CORESPONSE-handout.html">&lt;p&gt;&lt;img src=&quot;https://coresponse.rwth-aachen.de/blog/assets/img/2020-03-24-CORESPONSE-handout/media/image1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://coresponse.rwth-aachen.de/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://coresponse.rwth-aachen.de/blog/" rel="alternate" type="text/html" /><updated>2020-03-24T08:13:35-05:00</updated><id>https://coresponse.rwth-aachen.de/blog/feed.xml</id><title type="html">COVID-19 RESPONSE</title><subtitle>RESPirator OpeN SourcE.</subtitle><entry><title type="html">State of the Project</title><link href="https://coresponse.rwth-aachen.de/blog/markdown/2020/03/24/project-state.html" rel="alternate" type="text/html" title="State of the Project" /><published>2020-03-24T00:00:00-05:00</published><updated>2020-03-24T00:00:00-05:00</updated><id>https://coresponse.rwth-aachen.de/blog/markdown/2020/03/24/project-state</id><content type="html" xml:base="https://coresponse.rwth-aachen.de/blog/markdown/2020/03/24/project-state.html">&lt;p&gt;#State of the Project&lt;/p&gt;
+
+&lt;p&gt;Two different concepts are currently pursued in parallel. Both concepts should allow an adjustable breathing volume (tidal volume) and a variable respiratory rate. Additional oxygen can be administered via the BVM.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Concept 1&lt;/strong&gt; uses a DC geared motor at a constant speed. This concept requires very simple electronics and no special control (“switch on and go”). The bag is operated using a 3D printed mechanism. The breathing volume is adapted by adjusting the mechanism.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/images/KonzeptHebelV0.jpg&quot; alt=&quot;&quot; title=&quot;First prototype of Concept 1&quot; /&gt;
+First prototype of Concept 1. Rapid development iterations are happening currently with improvements to the design.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Concept 2&lt;/strong&gt; uses a servo or stepper motor. This concept requires slightly more complex electronics for the control of the motor, but only a very few mechanical parts. The function can be adjusted using a smartphone.&lt;/p&gt;
+
+&lt;p&gt;The first prototypes have already been implemented and are currently evaluated and improved with a test lung (AEROtube®).
+At the same time, a homepage is set up with replication instructions and all necessary files for printing the parts.&lt;/p&gt;
+
+&lt;p&gt;##COSTS AND MATERIAL&lt;/p&gt;
+
+&lt;p&gt;-Current status of building costs: below 75 Euro (Concept 1).
+-Production: decentralized by volunteers owning an FDM 3D-Printer with a build plate of 20cmx20cm (250g Filament)
+-Bag valve mask
+-Electric motor and power supply
+-Few mechanical small parts (e.g. screws)&lt;/p&gt;</content><author><name></name></author><summary type="html">#State of the Project</summary></entry><entry><title type="html">Coresponse Handout</title><link href="https://coresponse.rwth-aachen.de/blog/2020/03/24/CORESPONSE-handout.html" rel="alternate" type="text/html" title="Coresponse Handout" /><published>2020-03-24T00:00:00-05:00</published><updated>2020-03-24T00:00:00-05:00</updated><id>https://coresponse.rwth-aachen.de/blog/2020/03/24/CORESPONSE-handout</id><content type="html" xml:base="https://coresponse.rwth-aachen.de/blog/2020/03/24/CORESPONSE-handout.html">&lt;p&gt;&lt;img src=&quot;https://coresponse.rwth-aachen.de/blog/assets/img/2020-03-24-CORESPONSE-handout/media/image1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://coresponse.rwth-aachen.de/blog/assets/img/2020-03-24-CORESPONSE-handout/media/image2.png&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;https://coresponse.rwth-aachen.de/blog/assets/img/2020-03-24-CORESPONSE-handout/media/image3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
