@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-description: We collected a data from similar projects around the world.
+description: Links to similar projects around the world.
 categories: [markdown]
 title: Similar Projects
 ---
