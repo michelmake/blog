@@ -1,8 +1,8 @@
 ---
 toc: true
 layout: post
-description: We collected a data from similar projects around the world.
-categories: [markdown]
+description: Links to similar projects around the world.
+categories: [projects]
 title: Similar Projects
 ---
 # Similar Projects

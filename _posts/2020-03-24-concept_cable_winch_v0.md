@@ -1,14 +1,12 @@
 ---
 title: "Concept Cable Winch v0"
+layout: post
 summary: "Description, build instructions and lessons learned from the cable winch concept."
 toc: true
 comments: true
 image: images/concept_cable_winch_v0/assembly.jpg
-hide: false
-search_exclude: true
 categories: [instruction, concept]
 ---
-
 # Concept Cable Winch
 ## Description
 
@@ -23,9 +21,9 @@ Consequently, a micro controller is required to pass the inputs to the motor.
 On the plus side, the software allows a higher customizability of the air flow, volume and frequency.
 
 ## Required Components
-![]({{ site.baseurl }}/images/concept_cable_winch_v0/components.jpg "Required components" =560x)
+![]({{ site.baseurl }}/images/concept_cable_winch_v0/components.jpg "Required components")
 
-3D printed:
+3D printed parts from [Thingiverse](https://www.thingiverse.com/thing:4236312):
 - enclosure
 - pulley
 - pusher
@@ -51,20 +49,20 @@ Tools:
 ## Build Instructions
 
 First, mount the motor on the enclosure using the M2.5x16 screws and washers.
-![]({{ site.baseurl }}/images/concept_cable_winch_v0/step_1.jpg "Step 1" =560x)
+![]({{ site.baseurl }}/images/concept_cable_winch_v0/step_1.jpg "Step 1")
 
 Next, pass the lace through the hole in the pulley and knot it tightly.
 Pass the lace through the rectangular hole in the enclosing and mount the pulley on the motor's flange using the M2 countersunk screws.
-![]({{ site.baseurl }}/images/concept_cable_winch_v0/step_2.jpg "Step 2" =560x)
+![]({{ site.baseurl }}/images/concept_cable_winch_v0/step_2.jpg "Step 2")
 
 Pass the elastics through the smaller holes of the enclosure and through the outer holes of the pusher.
 The lace has to be passed through the center holes of the pusher.
 If you would like a secure fit, pass the elastic and lace through the handle of the bag.
 You could also place both over the handle for easier unmounting of the whole device.
-![]({{ site.baseurl }}/images/concept_cable_winch_v0/step_3.jpg "Step 3" =560x)
+![]({{ site.baseurl }}/images/concept_cable_winch_v0/step_3.jpg "Step 3")
 
 Finally, knot the elastic and the lace to the other side of the enclosure.
-![]({{ site.baseurl }}/images/concept_cable_winch_v0/assembly.jpg "Assembly" =560x)
+![]({{ site.baseurl }}/images/concept_cable_winch_v0/assembly.jpg "Assembly")
 
 ## Programming the board
 The code and instructions to flash the OpenCM9.04 board are available in [this github repository](https://github.com/CORESPONSE/dynamixel_software).
