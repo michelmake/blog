@@ -1,12 +1,11 @@
 ---
 title: "Concept Cable Winch v0"
-summary: "Description, build instructions and lessons learned from the cable winch concept."
+description: "Description, build instructions and lessons learned from the cable winch concept."
 toc: true
-comments: true
+# comments: true
 image: images/concept_cable_winch_v0/assembly.jpg
-categories: [instruction, concept]
+categories: [markdowninstruction, concept]
 ---
-
 # Concept Cable Winch
 ## Description
 
