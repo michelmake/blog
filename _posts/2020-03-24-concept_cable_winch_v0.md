@@ -10,7 +10,7 @@ categories: [instruction, concept]
 # Concept Cable Winch
 ## Description
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jHJIzP7SPyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/jHJIzP7SPyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 The concept aims to realize a compression of a bag-valve-mask with as little moving parts as possible.
 This reduces the number of parts which have to be printed and weak points.
@@ -21,7 +21,7 @@ Consequently, a micro controller is required to pass the inputs to the motor.
 On the plus side, the software allows a higher customizability of the air flow, volume and frequency.
 
 ## Required Components
-<img src="https://coresponse.github.io/blog/images/concept_cable_winch_v0/components.jpg" alt="Required components" width="560"/>
+<!-- <img src="https://coresponse.github.io/blog/images/concept_cable_winch_v0/components.jpg" alt="Required components" width="560"/> -->
 
 3D printed parts from [Thingiverse]():
 - enclosure
@@ -49,20 +49,20 @@ Tools:
 ## Build Instructions
 
 First, mount the motor on the enclosure using the M2.5x16 screws and washers.
-<img src="https://coresponse.github.io/blog/images/concept_cable_winch_v0/step_1.jpg" alt="Step 1" width="560"/>
+<!-- <img src="https://coresponse.github.io/blog/images/concept_cable_winch_v0/step_1.jpg" alt="Step 1" width="560"/> -->
 
 Next, pass the lace through the hole in the pulley and knot it tightly.
 Pass the lace through the rectangular hole in the enclosing and mount the pulley on the motor's flange using the M2 countersunk screws.
-<img src="https://coresponse.github.io/blog/images/concept_cable_winch_v0/step_2.jpg" alt="Step 2" width="560"/>
+<!-- <img src="https://coresponse.github.io/blog/images/concept_cable_winch_v0/step_2.jpg" alt="Step 2" width="560"/> -->
 
 Pass the elastics through the smaller holes of the enclosure and through the outer holes of the pusher.
 The lace has to be passed through the center holes of the pusher.
 If you would like a secure fit, pass the elastic and lace through the handle of the bag.
 You could also place both over the handle for easier unmounting of the whole device.
-<img src="https://coresponse.github.io/blog/images/concept_cable_winch_v0/step_3.jpg" alt="Step 3" width="560"/>
+<!-- <img src="https://coresponse.github.io/blog/images/concept_cable_winch_v0/step_3.jpg" alt="Step 3" width="560"/> -->
 
 Finally, knot the elastic and the lace to the other side of the enclosure.
-<img src="https://coresponse.github.io/blog/images/concept_cable_winch_v0/assembly.jpg" alt="Assembly" width="560"/>
+<!-- <img src="https://coresponse.github.io/blog/images/concept_cable_winch_v0/assembly.jpg" alt="Assembly" width="560"/> -->
 
 ## Programming the board
 The code and instructions to flash the OpenCM9.04 board are available in [this github repository](https://github.com/CORESPONSE/dynamixel_software).
